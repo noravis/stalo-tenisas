@@ -1,0 +1,10 @@
+body {
+    background-image: url(./tenis_cleanup.jpeg);
+   background-color:aquamarine;
+   background-repeat: no-repeat;
+   height: 500px;
+   background-position:center;
+
+   background-size:cover;
+   position: relative;
+}

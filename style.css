@@ -31,3 +31,15 @@ body {
     margin-top:0;
     margin-bottom: 60px;
 }
+.link {
+    width: 130px;
+    text-transform: uppercase;
+    background-color: #f54c00;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: calc(50% - 75px); 
+}
